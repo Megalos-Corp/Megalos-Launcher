@@ -7,7 +7,7 @@ let mainWindow;
 
 function createWindow() {
     mainWindow = new BrowserWindow({
-        title: "Megalos Launcher | 0.0.1a",
+        title: "Megalos Launcher | Prototype 0.0.1a",
         height: 650,
         width: 1000,
         webPreferences: {
